@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Load App</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="choose">Select a file to download.</string>
+    <string name="retrofit_option">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="loadApp_option">LoadApp - Current repository by Udacity</string>
+    <string name="glide_option">Glide - Image Loading Library by BumpTech</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="downloading"> Downloading …</string>
+    <string name="download_files">Downloads</string>
+    <string name="download_completed">Download completed.</string>
+    <string name="download_failed">Download failed.</string>
+    <string name="download_details">Details</string>
+    <string name="file">File: </string>
+    <string name="status">Status: </string>
+    <string name="close">Close</string>
+
+    // Content Description
+    <string name="image_document">Image Document</string>
+    <string name="image_cloud">Image Cloud</string>
+
+</resources>

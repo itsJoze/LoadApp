@@ -1,0 +1,14 @@
+<resources>
+
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="margin_extra_small">8dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+</resources>
